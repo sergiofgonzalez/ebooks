@@ -15,3 +15,6 @@ This repository contains a list with my collection of software related ebooks.
 ## JavaScript
 + JavaScript &mdash; The middle-ground
 + Learn JavaScript on the Macintosh
+
+## Linux
++ Learning Linux in a week of breakfasts

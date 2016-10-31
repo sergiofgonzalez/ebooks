@@ -22,3 +22,8 @@ This repository contains a list with my collection of software related ebooks.
 
 ## Windows
 + The Windows 3.11 bible
+
+## Assembler
++ Programming the MC68000
++ MIPS RISC: A quantitative approach
++ The 8086 instruction set

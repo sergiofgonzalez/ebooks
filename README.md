@@ -27,3 +27,9 @@ This repository contains a list with my collection of software related ebooks.
 + Programming the MC68000
 + MIPS RISC: A quantitative approach
 + The 8086 instruction set
+
+## SQL
+SQL for non-sql developers.
+
+## Bash Shell
+How to survive the shell

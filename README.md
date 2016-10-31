@@ -11,3 +11,6 @@ This repository contains a list with my collection of software related ebooks.
 + The world of Lambdas :ok_hand:
 + The world of functional programming for OO languages
 + Heads Down &mdash; Functional Design patterns
+
+## JavaScript
++ JavaScript &mdash; The middle-ground

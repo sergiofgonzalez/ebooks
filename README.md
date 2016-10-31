@@ -33,3 +33,6 @@ SQL for non-sql developers.
 
 ## Bash Shell
 How to survive the shell
+
+## AWS
+How to make purchases programmatically in Amazon.

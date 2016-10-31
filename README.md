@@ -4,5 +4,5 @@
 ## Description
 This repository contains a list with my collection of software related ebooks.
 
-## Java
+## C/C++ 
 + The C Programming Language (Kernighan & Ritchie) :star: :star: :star:

@@ -1,5 +1,5 @@
-# ebooks
-> :books: A repository with my collection of ebooks.
+# ebooks (Version 2.0)
+> :books: A repository with my collection of ebooks, version 2.0.
 
 ## Description
 This repository contains a list with my collection of software related ebooks.

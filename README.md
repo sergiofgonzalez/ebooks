@@ -1,8 +1,7 @@
-# ebooks (Version 2.0)
-> :books: A repository with my collection of ebooks, version 2.0.
+# Quotes
+> interesting quotes
 
-## Description
-This repository contains a list with my collection of software related ebooks.
+It takes a long time to become an instant success.
 
 ## C/C++ 
 + The C Programming Language (Kernighan & Ritchie) :star: :star: :star:
